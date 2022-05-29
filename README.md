@@ -9,3 +9,5 @@
 # Coding Challenge
 
 [solution](https://codesandbox.io/s/2022-internship-exercise-menu-forked-gm20t1)
+
+<mark>Note: You may need to refresh browser in code sandbox on first load of the app. </mark>
