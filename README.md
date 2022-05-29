@@ -29,7 +29,7 @@ Key learning points:
 
   [Render Props vs React Hooks](https://javascript.plainenglish.io/render-props-vs-hooks-a73ec72180ed)
 
-  I've always been curious if react hooks would completely take over react class components.  This goes on to show that although hooks provide a more efficient solution in most cases, there are some situations where react class components can still be viable.  Here render props is an react architecture that has been replaced with custom hooks.  However custom hooks can lead to more expensive calculations when a component's UI is complex which is where the react class based render props solution really shines.  It's nice to know that react class components are still viable since the introduction of the react hook api.  
+  I've always been curious if react hooks would completely take over react class components.  This goes on to show that although hooks provide a more efficient solution in most cases, there are some situations where react class components can still be viable.  Here render props is a react architecture that has been replaced with custom hooks.  However custom hooks can lead to more expensive calculations when a component's UI is complex which is where render props using react classes really shines.  It's nice to know that react class components are still viable since the introduction of the react hook api.  
 
   [NextJS](https://nextjs.org/)
 
